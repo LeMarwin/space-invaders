@@ -1,0 +1,23 @@
+.button-small{
+	-fx-font-size:24px;
+	-fx-background-color: #FAFAD2 ;
+    -fx-border-radius: 0;
+    -fx-background-radius:0.0 0;
+    -fx-padding: 0;
+    -fx-min-width:180px ;
+    -fx-min-height:60px;
+}
+
+.button-big{
+	-fx-font-size:24px;
+	-fx-background-color: #FAFAD2 ;
+    -fx-border-radius: 0;
+    -fx-background-radius:0.0 0;
+    -fx-padding: 0;
+    -fx-min-width:380px ;
+    -fx-min-height:60px;
+}
+
+.button-disabled{
+	-fx-background-color: gray ;
+}
